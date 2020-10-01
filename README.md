@@ -1,2 +1,2 @@
-# Flappy-Bird-Game
+# Flappy-Bird-Game : An exciting journey ahead
 # it is python game 
